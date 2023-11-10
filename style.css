@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 10vh;
+}
+
+#inputArea {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
+#text-box {
+  height: 3vh;
+  width: 270px;
+  background-color: #eee;
+}
+
+/* #text-box ::-wedkit-search-cancel-button {
+} */
+
+button {
+  height: 3vh;
+}
+
+#result-box {
+  font-size: 30;
+}
