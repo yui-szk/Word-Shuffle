@@ -4,13 +4,16 @@
     <meta name="description" content="^^" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./style.css" />
-    <title>^^</title>
+    <title>Word Shuffle</title>
   </head>
   <body>
-    <form onsubmit="event.preventDefault();enter()">
-      <input type="search" id="text-box" />
-    </form>
-    <button id="shuffle-button">click!</button>
+    <h2>Word Shuffle</h2>
+    <div id="inputArea">
+      <form onsubmit="event.preventDefault();set()">
+        <input type="search" id="text-box" />
+      </form>
+      <button id="shuffle-button">shuffle!</button>
+    </div>
     <p id="result-box"></p>
     <script type="text/javascript" src="./main.js"></script>
   </body>
