@@ -4,12 +4,14 @@
     <meta name="description" content="^^" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./style.css" />
-    <script type="module" src="./main.js"></script>
     <title>^^</title>
   </head>
   <body>
-    <input type="text" id="text-box" />
+    <form onsubmit="event.preventDefault();enter()">
+      <input type="search" id="text-box" />
+    </form>
     <button id="shuffle-button">click!</button>
     <p id="result-box"></p>
+    <script type="text/javascript" src="./main.js"></script>
   </body>
 </html>
