@@ -1,5 +1,5 @@
 # Word-Shuffle
 
-### Review用プロジェクト
+### Review 用プロジェクト
 
-デモページ：https://yui-szk.github.io/Word-Shuffle/
+Demo：https://yui-szk.github.io/Word-Shuffle/
