@@ -2,4 +2,4 @@
 
 ### Review 用プロジェクト
 
-Demo：https://yui-szk.github.io/Word-Shuffle/
+Demo：https://yui-szk.github.io/word-shuffle/
